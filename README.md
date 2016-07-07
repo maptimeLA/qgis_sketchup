@@ -27,5 +27,8 @@ This is a tutorial to export GIS spatial data into readable files for 3d modelin
  * You can download straight from OSM as an .osm file
  * Or you can even download the data from QGIS itself. [Steps in QGIS](http://learnosm.org/en/osm-data/osm-in-qgis/)
 3. Loading the Data into QGIS
+ * In this step, we'll learn how to use QGIS to load up OSM files
 4. Using the qgis2threejs plugin to export GIS data | [Documentation](http://qgis2threejs.readthedocs.io/en/docs-release/)
+ * In this step we'll use the plugin to generate a 3D webgl html page of your OSM data as well as generate 3d files for use in modeling programs like sketchup.
 5. Importing GIS data to Sketchup
+ * We'll import the 3d files and scale them and add other 3d objects.
